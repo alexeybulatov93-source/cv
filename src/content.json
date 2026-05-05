@@ -1,0 +1,193 @@
+{
+  "ru": {
+    "name": "Алексей Булатов",
+    "tagline": "Маркетолог · Перформанс · Ивент-маркетинг",
+    "experience": "Опыт 9+ лет",
+    "navLabel": "Веб-резюме",
+    "contact": {
+      "location": "Москва · готов к переезду",
+      "phone": "+7 (916) 912-72-90",
+      "email": "alexey.bulatov1993@yandex.ru",
+      "lang": "Английский C1"
+    },
+    "sections": {
+      "summary": "О себе",
+      "skills": "Ключевые навыки",
+      "experience": "Опыт работы",
+      "education": "Образование",
+      "languages": "Языки и сертификаты",
+      "certificates": "Сертификаты",
+      "recommendations": "Рекомендации"
+    },
+    "summaryText": [
+      "Маркетолог с разносторонним опытом на всех уровнях воронки: от имиджевой рекламы в национальном офисе по туризму до брендформанса и контекстной рекламы на стороне туроператора. Понимаю, как маркетинг работает в связке – от формирования спроса на направление до конвертации заявки в продажу.",
+      "Настраиваю кампании в Яндекс Директ и ПромоСтраницах, верстаю кастомные лендинги и внедряю email-автоворонки, выстраиваю сквозную аналитику. Работаю с полным стеком метрик: от анализа трафика (CPC, CTR) до оценки эффективности кампаний (ДРР, ROAS, ROMI).",
+      "Имею опыт крупных партнёрских проектов с национальными туристическими офисами и организации b2b-мероприятий. Использую AI (ChatGPT, Claude, DeepSeek) для ресёрча, работы с текстами и оптимизации рутинных задач."
+    ],
+    "skills": [
+      { "label": "Перформанс", "value": "Яндекс Директ · Яндекс ПромоСтраницы · Сквозная аналитика" },
+      { "label": "Аналитика", "value": "Яндекс Метрика · Мастер отчётов · CPM · CPC · CTR · CR · CPL · CPA · ДРР · ROAS · ROMI · LTV · аффинити-индекс" },
+      { "label": "Имейл и контент", "value": "UniSender · Битрикс · DOI-цепочки · контент-стратегии · соцсети" },
+      { "label": "Дизайн и сайты", "value": "Tilda · Figma · Adobe Photoshop · Canva" },
+      { "label": "Ивенты и партнёрства", "value": "B2B-мероприятия · отраслевые воркшопы · совместные проекты с НТО" },
+      { "label": "AI-инструменты", "value": "Claude · ChatGPT · DeepSeek" }
+    ],
+    "jobs": [
+      {
+        "company": "Corona Travel",
+        "dates": "Ноябрь 2023 – н. в.",
+        "role": "Менеджер по маркетингу · туроператор",
+        "blocks": [
+          { "title": "Платный трафик и контекстная реклама", "text": "Управлял трафиком в Яндекс Директ (товарные, ЕПК, МК) в двух режимах: самостоятельное ведение и контроль внешнего подрядчика с регулярным аудитом. При необходимости подключался сам. Для отдельных кампаний собирал кастомные посадочные страницы на Tilda. Также вёл кампании в Яндекс ПромоСтраницах: писал вовлекающие статьи и удерживал CTR, дочитываемость и цену перехода выше отраслевых бенчмарков." },
+          { "title": "Веб-аналитика", "text": "Выстроил сквозную аналитику с коллтрекингом при длинном цикле сделки. Разработал систему статусов лидов в Битрикс с критериями квалификации и регламентом для отдела продаж. Результат: алгоритмы Директа получили чистые сигналы для оптимизации, а маркетинг – прозрачную атрибуцию и обоснованное распределение бюджета. Использовал Яндекс Метрику для аналитических задач разной глубины: сегментация аудитории, анализ поведения, оценка релевантности аудитории продукту через аффинити-индекс. Применял весь стек метрик: от анализа трафика (CPM, CPC, CTR) до оценки эффективности кампаний (ДРР, ROAS, ROMI)." },
+          { "title": "Имейл-маркетинг и контент", "text": "Верстал письма в UniSender: анонсы мероприятий, благодарственные письма после b2b-встреч, продуктовые рассылки. Внедрил автоматизированную цепочку писем с двойным подтверждением адреса (DOI) – это обеспечило чистоту базы и высокую доставляемость. Вёл закрытый канал для турагентов, использовал AI для анализа вовлечённости и оптимизации контент-плана." },
+          { "title": "Партнёрский и ивент-маркетинг", "text": "Планировал и реализовывал совместные рекламные проекты с национальными туристическими офисами: НОТК, Saudi Tourism Authority (9–12 проектов в год). Курировал b2b-мероприятия для турагентов и партнёров: бизнес-завтраки, мастер-классы в офисе, вебинары. Координировал участие туроператора в отраслевых воркшопах: LTM, Pure Luxury, Unique Travel Fair, Турбизнес (Юг, Поволжье, Урал)." }
+        ]
+      },
+      {
+        "company": "Seafood Expo Development (SED)",
+        "dates": "Февраль 2023 – Июль 2023",
+        "role": "Менеджер по маркетингу · международная B2B-выставка",
+        "blocks": [
+          { "text": "Выстраивал партнёрские отношения с иностранными профильными СМИ; готовил пресс-релизы, новости и интервью. Разрабатывал контент-план и писал посты для соцсетей выставки, формировал УТП и готовил презентации для отдела продаж. Анализировал конкурентные мероприятия, собирал семантическое ядро и оптимизировал рекламные кампании в Google Ads." }
+        ]
+      },
+      {
+        "company": "Туристическое управление Таиланда (TAT)",
+        "dates": "Декабрь 2017 – Сентябрь 2022",
+        "role": "Специалист по маркетингу · национальный офис по туризму, Москва",
+        "blocks": [
+          { "title": "Выставки и мероприятия", "text": "Организация участия представительства в крупных международных туристических выставках России (MITT, Otdykh Leisure, INWETEX), Таиланда (TTM+) и стран СНГ (KITF, AITF, TITF, CTF). Организация и проведение роуд-шоу и воркшопов в России и странах СНГ. Организация и сопровождение ознакомительных туров в Таиланд для СМИ и туроператоров." },
+          { "title": "Реклама, контент и исследования", "text": "Планирование и координация рекламных кампаний; разработка контент-стратегий и контроль выполнения; координация рекламных кампаний в социальных сетях. Разработка концепций маркетинговых исследований и контроль их проведения. Курирование онлайн-академий на платформах АТОР, Travel Media и Profi.travel. Перевод и редактирование брошюр и каталогов о Таиланде." }
+        ]
+      },
+      {
+        "company": "Sheraton Palace Hotel · АО «Академинвест»",
+        "dates": "Ноябрь 2016 – Август 2017",
+        "role": "Специалист по бронированию · Москва",
+        "blocks": [
+          { "text": "Осуществлял бронирование номерного фонда, увеличивал доход через продажу номеров высоких категорий. Консультировал гостей, оказывал визовую поддержку, вёл деловую переписку на русском и английском языке. Решал спорные вопросы по бронированию, собирал статистику загрузки отеля." }
+        ]
+      },
+      {
+        "company": "ОАО «РЖД»",
+        "dates": "Январь 2014 – Март 2014",
+        "role": "Участник волонтёрской программы · Сочи 2014",
+        "blocks": [
+          { "text": "Встречал группы в аэропорту, помогал с размещением, сопровождал VIP-гостей на олимпийских объектах и экскурсиях." }
+        ],
+        "award": "Награждён благодарственным письмом Министра транспорта РФ за участие в организации и проведении XXII Олимпийских зимних игр 2014 в городе Сочи."
+      }
+    ],
+    "edu": [
+      { "school": "РЭУ им. Г. В. Плеханова", "year": "2017", "degree": "Магистр · Корпоративные стратегии индустрии гостеприимства" },
+      { "school": "МГУПС (МИИТ)", "year": "2015", "degree": "Бакалавр (с отличием) · Туризм" }
+    ],
+    "langs": [
+      { "label": "Английский", "value": "C1, продвинутый" },
+      { "label": "Русский", "value": "родной" },
+      { "label": "Сертификат", "value": "специалист по Яндекс Директ" }
+    ],
+    "certificates": [],
+    "recommendations": [],
+    "downloadLabel": "Скачать резюме",
+    "downloadRu": "Русская версия",
+    "downloadEn": "English version"
+  },
+  "en": {
+    "name": "Alexey Bulatov",
+    "tagline": "Marketer · Performance · Event Marketing",
+    "experience": "9+ Years of Experience",
+    "navLabel": "Web Resume",
+    "contact": {
+      "location": "Moscow · open to relocation",
+      "phone": "+7 (916) 912-72-90",
+      "email": "alexey.bulatov1993@yandex.ru",
+      "lang": "English C1"
+    },
+    "sections": {
+      "summary": "Professional Summary",
+      "skills": "Key Skills",
+      "experience": "Experience",
+      "education": "Education",
+      "languages": "Languages & Certifications",
+      "certificates": "Certificates",
+      "recommendations": "Recommendations"
+    },
+    "summaryText": [
+      "Marketer with experience across the full funnel – from brand awareness campaigns at a national tourism office to performance-driven paid search at a tour operator – seeing marketing as a system: from generating demand to converting leads into revenue.",
+      "Run campaigns in Yandex Direct and PromoPages, build custom landing pages, implement email automation flows, and set up end-to-end analytics. Work with the full metrics stack – from traffic indicators (CPC, CTR) to campaign performance (ROAS, ACOS, ROMI).",
+      "Experienced in major partnership projects with national tourism offices and B2B event management. Use AI tools (ChatGPT, Claude, DeepSeek) for research, copywriting, and optimizing routine tasks."
+    ],
+    "skills": [
+      { "label": "Performance", "value": "Yandex Direct · Yandex PromoPages · End-to-End Analytics" },
+      { "label": "Analytics", "value": "Yandex Metrica · CPM · CPC · CTR · CR · CPL · CPA · ROAS · ACOS · ROMI · LTV · Affinity Index" },
+      { "label": "Email & Content", "value": "UniSender · Bitrix CRM · DOI Flows · Content Strategy · Social Media" },
+      { "label": "Design & Web", "value": "Tilda · Figma · Adobe Photoshop · Canva" },
+      { "label": "Events & Partnerships", "value": "B2B Events · Industry Workshops · Joint Campaigns with National Tourism Offices" },
+      { "label": "AI Tools", "value": "Claude · ChatGPT · DeepSeek" }
+    ],
+    "jobs": [
+      {
+        "company": "Corona Travel",
+        "dates": "Nov 2023 – Present",
+        "role": "Marketing Manager · Tour Operator",
+        "blocks": [
+          { "title": "Paid Media & Performance Advertising", "text": "Managed Yandex Direct campaigns across multiple types (Product, Unified Performance, and Master Campaigns) in two modes: full hands-on execution and oversight of an external agency with regular audits, stepping in directly when needed. Built custom landing pages on Tilda for select campaigns. Also ran campaigns on Yandex PromoPages (brandformance platform / native discovery): wrote engaging articles and consistently kept CTR, read-through rate, and cost per click above industry benchmarks." },
+          { "title": "Web Analytics", "text": "Set up end-to-end analytics with call tracking for a long sales-cycle business. Designed a lead status framework in the CRM system (Bitrix) with qualification criteria and a workflow for the sales team. Result: Yandex Direct algorithms received clean optimization signals, while marketing gained transparent attribution and data-driven budget allocation. Used Yandex Metrica for in-depth analytics: audience segmentation, behavioral analysis, and audience–product fit assessment via affinity index. Applied the full metrics stack – from traffic indicators (CPM, CPC, CTR) to campaign performance (ROAS, ACOS, ROMI)." },
+          { "title": "Email Marketing & Content", "text": "Created emails in UniSender: event invites, B2B thank-you letters, product newsletters. Implemented a double opt-in (DOI) automated flow – ensuring database integrity and high deliverability. Ran a closed Telegram channel for high-end travel agents. Used AI tools to analyze engagement and optimize content planning." },
+          { "title": "Partnership & Event Marketing", "text": "Planned and delivered joint advertising campaigns with national tourism offices: Korea Tourism Organization (KTO), Saudi Tourism Authority (9–12 projects per year). Organized B2B events for travel agents and partners: business breakfasts, in-house master classes, webinars. Coordinated the company's participation in industry workshops: LTM, Pure Luxury, Unique Travel Fair, and Tourbusiness (South, Volga region, and the Urals)." }
+        ]
+      },
+      {
+        "company": "Seafood Expo Development (SED)",
+        "dates": "Feb 2023 – Jul 2023",
+        "role": "Marketing Manager · International B2B Exhibition",
+        "blocks": [
+          { "text": "Built partnerships with leading international industry media. Prepared press releases, news articles, and interviews. Developed content plans and wrote social media posts for the exhibition. Created value propositions and sales decks for the commercial team. Analyzed competing events, built keyword lists, and optimized Google Ads campaigns." }
+        ]
+      },
+      {
+        "company": "Tourism Authority of Thailand",
+        "dates": "Dec 2017 – Sep 2022",
+        "role": "Marketing Specialist · TAT Moscow Office",
+        "blocks": [
+          { "title": "Exhibitions & Events", "text": "Organized the Moscow office's participation in major international tourism exhibitions in Russia (MITT, Otdykh Leisure, INWETEX), Thailand (TTM+), and CIS countries (KITF, AITF, TITF, CTF). Ran roadshows and workshops across Russia and the CIS. Arranged and accompanied familiarization trips to Thailand for media and tour operators." },
+          { "title": "Advertising & Content", "text": "Planned and coordinated advertising campaigns. Developed content strategies and content plans, oversaw execution. Coordinated campaigns with local partners and media agencies." },
+          { "title": "Research & Educational Projects", "text": "Designed marketing research concepts and supervised their implementation. Curated online academies on ATOR, Travel Media, and Profi.travel platforms. Translated and edited brochures and catalogs on travel in Thailand." }
+        ]
+      },
+      {
+        "company": "Sheraton Palace Hotel (Akademinvest JSC)",
+        "dates": "Nov 2016 – Aug 2017",
+        "role": "Reservations Specialist · Moscow",
+        "blocks": [
+          { "text": "Handled room bookings and drove revenue by upselling higher-category rooms. Advised guests, provided visa support, handled business correspondence in Russian and English. Resolved booking disputes. Tracked hotel occupancy statistics." }
+        ]
+      },
+      {
+        "company": "Russian Railways (RZD)",
+        "dates": "Jan 2014 – Mar 2014",
+        "role": "Volunteer Program Participant · Sochi 2014",
+        "blocks": [
+          { "text": "Met groups at the airport, assisted with accommodation, escorted VIP guests at Olympic venues and excursions." }
+        ],
+        "award": "Awarded a Letter of Appreciation from the Minister of Transport of the Russian Federation for contribution to organizing and delivering the XXII Olympic Winter Games 2014 in Sochi."
+      }
+    ],
+    "edu": [
+      { "school": "Plekhanov Russian University of Economics", "year": "2017", "degree": "Master's · Corporate Strategies in Hospitality" },
+      { "school": "Moscow State University of Railways", "year": "2015", "degree": "Bachelor's (Honors) · Tourism" }
+    ],
+    "langs": [
+      { "label": "English", "value": "C1, Advanced" },
+      { "label": "Russian", "value": "Native" },
+      { "label": "Certification", "value": "Yandex Direct Specialist" }
+    ],
+    "certificates": [],
+    "recommendations": [],
+    "downloadLabel": "Download resume",
+    "downloadRu": "Russian version",
+    "downloadEn": "English version"
+  }
+}
