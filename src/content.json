@@ -2,7 +2,7 @@
   "ru": {
     "name": "Алексей Булатов",
     "tagline": "Маркетолог · Перформанс · Ивент-маркетинг",
-    "experience": "Опыт 9+ лет",
+    "experience": "Опыт 7+ лет",
     "navLabel": "Веб-резюме",
     "contact": {
       "location": "Москва · готов к переезду",
@@ -22,14 +22,15 @@
     "summaryText": [
       "Маркетолог с разносторонним опытом на всех уровнях воронки: от имиджевой рекламы в национальном офисе по туризму до брендформанса и контекстной рекламы на стороне туроператора. Понимаю, как маркетинг работает в связке – от формирования спроса на направление до конвертации заявки в продажу.",
       "Настраиваю кампании в Яндекс Директ и ПромоСтраницах, верстаю кастомные лендинги и внедряю email-автоворонки, выстраиваю сквозную аналитику. Работаю с полным стеком метрик: от анализа трафика (CPC, CTR) до оценки эффективности кампаний (ДРР, ROAS, ROMI).",
-      "Имею опыт крупных партнёрских проектов с национальными туристическими офисами и организации b2b-мероприятий. Использую AI (ChatGPT, Claude, DeepSeek) для ресёрча, работы с текстами и оптимизации рутинных задач."
+      "Имею опыт крупных партнёрских проектов с национальными туристическими офисами и организации b2b-мероприятий полного цикла, от роуд-шоу и воркшопов (форматы pre-appointed и free flow) до бизнес-завтраков и мастер-классов в офисе. Отвечаю за сбор аудитории – работу с базой, сегментацию и персональные приглашения, контролирую явку и no-show. Веду учёт и коммуникацию с участниками через TimePad.",
+      "Использую AI (ChatGPT, Claude, DeepSeek) для ресёрча, работы с текстами и оптимизации рутинных задач."
     ],
     "skills": [
       { "label": "Перформанс", "value": "Яндекс Директ · Яндекс ПромоСтраницы · Сквозная аналитика" },
       { "label": "Аналитика", "value": "Яндекс Метрика · Мастер отчётов · CPM · CPC · CTR · CR · CPL · CPA · ДРР · ROAS · ROMI · LTV · аффинити-индекс" },
       { "label": "Имейл и контент", "value": "UniSender · Битрикс · DOI-цепочки · контент-стратегии · соцсети" },
       { "label": "Дизайн и сайты", "value": "Tilda · Figma · Adobe Photoshop · Canva" },
-      { "label": "Ивенты и партнёрства", "value": "B2B-мероприятия · отраслевые воркшопы · совместные проекты с НТО" },
+      { "label": "Ивенты и партнёрства", "value": "B2B-мероприятия · отраслевые воркшопы · совместные проекты с НТО · TimePad" },
       { "label": "AI-инструменты", "value": "Claude · ChatGPT · DeepSeek" }
     ],
     "jobs": [
@@ -97,7 +98,7 @@
   "en": {
     "name": "Alexey Bulatov",
     "tagline": "Marketer · Performance · Event Marketing",
-    "experience": "9+ Years of Experience",
+    "experience": "7+ Years of Experience",
     "navLabel": "Web Resume",
     "contact": {
       "location": "Moscow · open to relocation",
@@ -117,14 +118,15 @@
     "summaryText": [
       "Marketer with experience across the full funnel – from brand awareness campaigns at a national tourism office to performance-driven paid search at a tour operator – seeing marketing as a system: from generating demand to converting leads into revenue.",
       "Run campaigns in Yandex Direct and PromoPages, build custom landing pages, implement email automation flows, and set up end-to-end analytics. Work with the full metrics stack – from traffic indicators (CPC, CTR) to campaign performance (ROAS, ACOS, ROMI).",
-      "Experienced in major partnership projects with national tourism offices and B2B event management. Use AI tools (ChatGPT, Claude, DeepSeek) for research, copywriting, and optimizing routine tasks."
+      "Experienced in major partnership projects with national tourism offices and in managing full-cycle B2B events – from roadshows and workshops (pre-appointed and free flow formats) to business breakfasts and in-office masterclasses. Responsible for audience acquisition (database work, segmentation, personal invitations) and for controlling attendance and no-shows. Manage participant records and communication via TimePad.",
+      "Use AI tools (ChatGPT, Claude, DeepSeek) for research, copywriting, and optimizing routine tasks."
     ],
     "skills": [
       { "label": "Performance", "value": "Yandex Direct · Yandex PromoPages · End-to-End Analytics" },
       { "label": "Analytics", "value": "Yandex Metrica · CPM · CPC · CTR · CR · CPL · CPA · ROAS · ACOS · ROMI · LTV · Affinity Index" },
       { "label": "Email & Content", "value": "UniSender · Bitrix CRM · DOI Flows · Content Strategy · Social Media" },
       { "label": "Design & Web", "value": "Tilda · Figma · Adobe Photoshop · Canva" },
-      { "label": "Events & Partnerships", "value": "B2B Events · Industry Workshops · Joint Campaigns with National Tourism Offices" },
+      { "label": "Events & Partnerships", "value": "B2B Events · Industry Workshops · Joint Campaigns with National Tourism Offices · TimePad" },
       { "label": "AI Tools", "value": "Claude · ChatGPT · DeepSeek" }
     ],
     "jobs": [
